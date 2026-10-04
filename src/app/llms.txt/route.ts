@@ -1,0 +1,7 @@
+export const dynamic = "force-static";
+
+export function GET() {
+  return new Response("# Verseo — AI Content Automation Template\n\nLaunch an AI content product with Verseo’s responsive Framer template, polished SaaS sections, pricing, FAQs, testimonials, and conversion-focused flows.\n\nThis is a generated ditto.site clone. It preserves captured page content, metadata, route structure, and static assets where available.\n\n## Routes\n\n- [Verseo — AI Content Automation Template](https://obvious-tools-999124.framer.app/) - Launch an AI content product with Verseo’s responsive Framer template, polished SaaS sections, pricing, FAQs, testimonials, and conversion-focused flows.\n\n## Captured Content\n\n### Verseo — AI Content Automation Template\n[ AI writing tool ] Write better content. Faster. With AI Verseo helps teams, founders, and marketers generate high-quality content in seconds — without overthinking every word Get Started Get Started Try Demo Try Demo What do you want to write today? AI Writer Brand Voice Rewrite Summarize What do you want to write today? AI Writer Trusted by modern teams [ the difference ] Where content friction ends, clarity begins See how AI replaces slow, manual writing with fast, structured content creation. Fragmented writing Ideas don’t translate into clear content Constantly starting from a blank page No clear structure or direction Manual workflows Writing takes too much time Endless editing and re\n", {
+    headers: { "content-type": "text/plain; charset=utf-8" },
+  });
+}
